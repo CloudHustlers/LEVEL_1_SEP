@@ -17,7 +17,7 @@ WHERE state_code="CA"
 LIMIT 4000' \
 --project_id $DEVSHELL_PROJECT_ID \
 demo_dataset.authorized_view_b
-echo "PROJECT ID=$DEVSHELL_PROJECT_ID"
+echo "PROJECT_ID=$DEVSHELL_PROJECT_ID"
 ```
 ### Copy the project id (From last line in terminal) and Store it
 ### Bigquery > demo_dataset 
