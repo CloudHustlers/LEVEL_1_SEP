@@ -27,9 +27,9 @@ echo "PROJECT ID=$DEVSHELL_PROJECT_ID"
 > Then again > ```demo_dataset``` > select b > add authorization > close
 
 ### authorized_view_a > Share
-> Add Principal > Paste username 1 from lab > Role ```BigQuery Data Viewer``` > save
+> Add Principal > Paste username A from lab > Role ```BigQuery Data Viewer``` > save
 ### authorized_view_b > Share
-> Add Principal > Paste username 2 from lab > Role ```BigQuery Data Viewer``` > save
+> Add Principal > Paste username B from lab > Role ```BigQuery Data Viewer``` > save
 ### Close the incognito window
 ### Login to Project A Console 
 ```cmd
